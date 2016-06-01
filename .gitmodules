@@ -1,0 +1,9 @@
+[submodule "extends"]
+	path = extends
+	url = git@github.com:cascadeo-manops/cc-aws-elem_vpc.git
+[submodule "stack-vpc-private_subnet/extends"]
+	path = stack-vpc-private_subnet/extends
+	url = git@github.com:cascadeo-manops/cc-aws-elem_vpc_privatesubnet.git
+[submodule "stack-vpc-public_subnet/extends"]
+	path = stack-vpc-public_subnet/extends
+	url = git@github.com:cascadeo-manops/cc-aws-elem_vpc_publicsubnet.git
